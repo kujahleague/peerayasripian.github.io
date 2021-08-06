@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
-## test
+## Peeraya Sripian
+
+### About me
+
+Hello, My name is Peeraya Sripian (nickname: Gift, you can call me Gift). Currently, I work as an assistant professor at Shibaura Institute of Technology, Tokyo, Japan. I am working on a project relates to emotion sensing, Japanese fashion and computer vision. Also, I am interested in proofing some new optical illusion using human experiments. I have been engaging in the project that uses hybrid images as a sual acuity assessment tool. Other research includes image processing in medical use, computer vision, computer graphic, and Media for entertainment purposes.
+
+### Research Interests
 
 You can use the [editor on GitHub](https://github.com/kujahleague/peerayasripian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
